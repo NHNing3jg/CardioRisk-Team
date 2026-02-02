@@ -27,7 +27,7 @@ L’objectif principal du projet est de **prédire le risque de maladies cardiov
 
 Ce projet respecte strictement la **roadmap officielle du module** ainsi que les **critères d’évaluation définis par l’enseignant**.
 
-## 🏗️ Architecture globale du projet
+##  Architecture globale du projet
 
 Le schéma ci-dessous présente l’architecture complète du projet **CardioRisk+**, depuis
 l’acquisition des données et le web scraping jusqu’au déploiement de l’application.
